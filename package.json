@@ -105,6 +105,10 @@
     "Android >= 4.4",
     "ios >= 9"
   ],
+  "volta": {
+    "node": "14.16.0",
+    "yarn": "1.22.17"
+  },
   "resolutions": {
     "@babel/runtime": "~7.17.9"
   },
